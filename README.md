@@ -1,8 +1,11 @@
 # The Flag Game Quiz
 
 This is just a simple quiz game with the european flags.
-A guessing game with two answers. 
+A guessing game with two answers.
+
 It's a project using HTML, CSS and JavaScript.
+
+[Live Heroku Deployment](https://theflaggame.herokuapp.com/)
 
 [Screenshots]
 
