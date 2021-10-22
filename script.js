@@ -75,7 +75,7 @@ function start() {
 }
 
 function correct() {
-    results.innerHTML = "<div id=green1>" + "Nice !（●＾o＾●）" + "</div>";
+    results.innerHTML = "<div id=green1>" + "</div>";
     hide1.style.background = "green";
     hide1.style.color = "white";
     hide1.disabled = true;
@@ -85,7 +85,7 @@ function correct() {
 }
 
 function incorrect() {
-    results.innerHTML = "<div id=red1>" + "Too bad ! (×﹏×)" + "</div>";
+    results.innerHTML = "<div id=red1>" + "</div>";
     hide1.style.background = "green";
     hide1.style.color = "white";
     hide2.style.background = "red";
