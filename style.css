@@ -24,7 +24,7 @@ body {
 }   
 
 #container {
-    width: 400px;
+    width: 100%;
     min-height: 400px;
     margin: 40px;
     position: relative;
