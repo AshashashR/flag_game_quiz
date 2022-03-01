@@ -133,8 +133,8 @@ img {
 
 @media screen and (max-height:570px) {
 	#container { 
-        min-height: 300px;
-        width: 350px; }
+        height: 100vh;
+        max-width: 100%; }
     #game h2 {
         font-size: 18px;
     }
