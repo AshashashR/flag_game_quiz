@@ -101,7 +101,7 @@ function next() {
     message002.innerHTML = question.shift();
     results.innerHTML = "";
     if (x > 11) {
-        message002.innerHTML = "End of the Flag Game !<br>Did you enjoy it ? ^^";
+        message002.innerHTML = "End of the Flag Game !<br>Did you enjoy it?";
         questionnum.innerHTML = (y - 2);
         nextques.innerHTML = "<button class=button2 onclick=restart()>Restart</button>";
     }
