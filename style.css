@@ -143,6 +143,15 @@ img {
 }
 
 @media screen and (max-height:570px) {
+    body {
+        width: 100%;
+            height: 100%;
+            margin: 0;
+            overflow: hidden;
+            position: absolute;
+            top: 0;
+            left: 0;
+    }
 	#container { 
         height: 100vh;
         max-width: 100%; }
